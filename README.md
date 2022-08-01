@@ -1,10 +1,7 @@
 # AMATH582-homework-template
 ---
-title: "The power of R Markdown + GitHub + Overleaf"
+"The power of R Markdown + GitHub + Overleaf"
 author: "Soumya Sharma"
-output:    
-  html_document:
-    keep_tex: true
 ---
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
